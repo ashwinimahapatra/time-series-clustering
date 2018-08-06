@@ -15,7 +15,9 @@ Recently I have been posed with a mammoth amount of time series data for a retai
 Hence I created a synthetic data set containing 3 distinct types of time series
 
 <p> A random process <p>
-A autoregressive process
-A moving average process
+
+<p>A autoregressive process <p>
+
+<p>A moving average process<p>
 
 Further I applied the time series clustering technique to illustrate how the combined data set could be grouped into 3 clusters.
